@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398617037714",
+    "project_id": "alcoholcabs",
+    "storage_bucket": "alcoholcabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398617037714:android:8bff908ca4474004ee8f4b",
+        "android_client_info": {
+          "package_name": "com.example.alcohol_cabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398617037714-mvg14o46upi4ofgvrkhih3dbk7vdnkj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alcohol_cabs",
+            "certificate_hash": "8f2939a31711fbf4f6a2c0816d5872139f0fd570"
+          }
+        },
+        {
+          "client_id": "398617037714-fqmfogrbsdjgraipv38i590hnud1vusa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0wmUpVesW8w5sq1CfKuajVu7CH1LtIMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398617037714-fqmfogrbsdjgraipv38i590hnud1vusa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
